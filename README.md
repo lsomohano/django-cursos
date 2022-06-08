@@ -4,9 +4,9 @@
 >Algunos pasos --por confirmar los orrectos despues de clonar el proyecto.
 >
 >1.- git clone git@github.com:lsomohano/django-cursos.git   
->2.- cd django-curso 
->3.- λ docker-compose run web django-admin startproject TiendaOnline . 
->4.- λ docker-compose up -d 
+>2.- cd django-curso  
+>3.- λ docker-compose run web django-admin startproject TiendaOnline .  
+>4.- λ docker-compose up -d  
 >
 >  docker ps 
 >λ docker exec -ti "bb02e78306cf-containerid" /bin/bash  
